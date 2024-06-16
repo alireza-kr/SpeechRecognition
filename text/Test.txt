@@ -1,0 +1,5 @@
+two                  from 3.39 sec to 3.81 sec, confidence is 54.67%
+five                 from 4.74 sec to 5.28 sec, confidence is 100.00%
+seven                from 6.27 sec to 6.81 sec, confidence is 100.00%
+eight                from 7.89 sec to 8.34 sec, confidence is 100.00%
+two                  from 8.97 sec to 9.42 sec, confidence is 63.94%
